@@ -18,4 +18,4 @@ CSCI2100 | Data Structure
 CSCI3250 | Computer and Society
 CSCI3251 | Practicum ;)
 
-
+![Milestone2 code]{/milestone2.PNG}
